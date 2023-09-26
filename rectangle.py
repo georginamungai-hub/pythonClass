@@ -1,6 +1,6 @@
 width = 40
 length = 60
  
-area = width*length
+area = (width*length)
 
 print(area)
